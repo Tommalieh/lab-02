@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# Lab-02
 
-You can use the [editor on GitHub](https://github.com/Tommalieh/lab-02/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+* Number and name of feature: Feature #1: Display images  Feature #2: Filter images
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* Estimate of time needed to complete: 2 hours
 
-### Markdown
+* Start time: 2:30 PM
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Finish time: 3:30 PM
 
-```markdown
-Syntax highlighted code block
+* Actual time needed to complete: 1 hour
 
-# Header 1
-## Header 2
-### Header 3
+* Number and name of feature: Feature #2: Filter images
 
-- Bulleted
-- List
+* Estimate of time needed to complete: 1.5 hours
 
-1. Numbered
-2. List
+* Start time: 3:30 PM
 
-**Bold** and _Italic_ and `Code` text
+* Finish time: 6:00 PM
 
-[Link](url) and ![Image](src)
-```
+* Actual time needed to complete: 2.5 hours
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* Number and name of feature: Feature #3: Style the application
 
-### Jekyll Themes
+* Estimate of time needed to complete: 1.5 hours
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tommalieh/lab-02/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* Start time: 7:30 PM
 
-### Support or Contact
+* Finish time: 9:30 PM
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Actual time needed to complete: 2 hours
